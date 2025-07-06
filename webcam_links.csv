@@ -1,0 +1,33 @@
+Name,Description,Location,Stream Type,URL,Provider,Category,Status
+Abbey Road Studios,Famous crosswalk where The Beatles album cover was shot,London UK,HLS,https://video-downloads.earthcam.com/fecnetwork/9974.flv/chunklist_w827842225.m3u8,EarthCam,Cultural,Active
+Times Square,Busy intersection in Manhattan,New York City USA,HLS,https://videos3.earthcam.com/fecnetwork/4029.flv/chunklist_w1313086007.m3u8,EarthCam,Urban,Active
+Trevi Fountain,Famous baroque fountain in Rome,Rome Italy,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=fontana-di-trevi,SkylineWebcams,Tourist,Active
+Venice St Marks Square,Historic piazza with basilica,Venice Italy,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=piazza-san-marco,SkylineWebcams,Tourist,Active
+Seaside Heights Boardwalk,Popular beach boardwalk,New Jersey USA,HLS,https://videos3.earthcam.com/fecnetwork/15559.flv/chunklist_w1110524063.m3u8,EarthCam,Beach,Active
+Puerta del Sol,Central square with Tio Pepe sign,Madrid Spain,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=puerta-del-sol-tio-pepe,SkylineWebcams,Urban,Active
+Rome Colosseum,Ancient amphitheatre view,Rome Italy,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=roma-colosseo,SkylineWebcams,Historical,Active
+Puerto de la Cruz,Resort town beach view,Tenerife Spain,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=puerto-de-la-cruz-tenerife,SkylineWebcams,Beach,Active
+Viareggio Beach,Popular Italian beach resort,Tuscany Italy,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=spiaggia-viareggio,SkylineWebcams,Beach,Active
+Cortina d'Ampezzo,Ski resort with mountain views,Italian Alps,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=cortina-d-ampezzo,SkylineWebcams,Mountain,Active
+Pisa Tower,View of the leaning tower,Pisa Italy,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=pisa,SkylineWebcams,Historical,Active
+Camogli Harbor,Picturesque fishing village,Liguria Italy,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=camogli,SkylineWebcams,Coastal,Active
+CN Tower Toronto,Iconic tower and city skyline,Toronto Canada,HLS,https://videos3.earthcam.com/fecnetwork/hdtoronto.flv/chunklist_w1110524063.m3u8,EarthCam,Urban,Active
+Myrtle Beach,Popular vacation beach,South Carolina USA,HLS,https://videos3.earthcam.com/fecnetwork/myrtlebeach.flv/chunklist_w1110524063.m3u8,EarthCam,Beach,Active
+Coney Island,Historic amusement area,New York USA,HLS,https://videos3.earthcam.com/fecnetwork/coneyisland.flv/chunklist_w1110524063.m3u8,EarthCam,Entertainment,Active
+World Trade Center,Memorial and Freedom Tower,New York USA,HLS,https://videos3.earthcam.com/fecnetwork/worldtrade.flv/chunklist_w1110524063.m3u8,EarthCam,Memorial,Active
+Las Teresitas Beach,Golden sand beach,Tenerife Spain,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=playa-de-las-teresitas,SkylineWebcams,Beach,Active
+Boccadasse Genoa,Colorful fishing village,Genoa Italy,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=boccadasse-genova,SkylineWebcams,Coastal,Active
+Santander Beach,Northern Spanish beach,Cantabria Spain,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=playa-del-sardinero,SkylineWebcams,Beach,Active
+Innichen South Tyrol,Alpine town main square,South Tyrol Italy,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=san-candido,SkylineWebcams,Alpine,Active
+Hotel Nes Amsterdam,Central Amsterdam street view,Amsterdam Netherlands,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=amsterdam,SkylineWebcams,Urban,Active
+Hippocrates Square,Historic square in old town,Rhodes Greece,HLS,https://hd-auth.skylinewebcams.com/live.m3u8?a=hippocrates-square,SkylineWebcams,Historical,Active
+Generic RTSP Camera,Template for private IP cameras,Local Network,RTSP,rtsp://username:password@192.168.1.100:554/stream1,Generic,Security,Template
+Generic MJPEG Camera,Template for HTTP cameras,Local Network,MJPEG,http://192.168.1.100:8080/video,Generic,Security,Template
+Generic HTTP Stream,Template for basic HTTP streams,Local Network,HTTP,http://192.168.1.100:8000/stream.mjpg,Generic,General,Template
+Venice - St. Mark's Square,Live view of Venice's main square,"Venice, Italy",HLS,https://skylinewebcams.com/video/venezia-piazza-san-marco.m3u8,SkylineWebcams,City,Active
+Trevi Fountain,Live view of Rome's famous Trevi Fountain,"Rome, Italy",HLS,https://skylinewebcams.com/video/roma-fontana-di-trevi.m3u8,SkylineWebcams,Landmark,Active
+Riga Old Town,Live camera of Riga's historic center,"Riga, Latvia",HLS,https://balticlivecam.com/streams/riga_old_town/index.m3u8,Baltic Live Cam,City,Active
+Times Square,Still image of Times Square,"New York, USA",JPEG,http://images.earthcam.com/ec_metros/ourcams/tsrobo.jpg,EarthCam,City,Active
+Miami Beach,Live MJPEG stream of Miami Beach,"Miami Beach, USA",MJPEG,http://webcam.miamibeachfl.gov/mjpg/video.mjpg,Miami Beach City,Beach,Active
+Port of Rotterdam,Live view of Rotterdam port,"Rotterdam, Netherlands",HLS,https://webcam-rotterdam-port.nl/hls/portcam.m3u8,Port of Rotterdam,Harbor,Active
+San Diego Zoo - Ape Cam,Live camera of apes at San Diego Zoo,"San Diego, USA",HLS,https://sdzoo-cams.s3.amazonaws.com/ape-cam/playlist.m3u8,San Diego Zoo,Wildlife,Active
